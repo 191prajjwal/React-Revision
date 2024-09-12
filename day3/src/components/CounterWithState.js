@@ -15,7 +15,7 @@ function handleClick(){
     <div><hr color="green"/>
         <h2>I am counter with count as a state</h2>
         <h3>The count value is {count}</h3>
-        <h3>count {count1}</h3>
+        <h3>count1 {count1}</h3>
         <button onClick={handleClick}>Increment</button>
         <hr color="green"/>
         

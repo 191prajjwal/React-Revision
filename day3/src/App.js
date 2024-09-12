@@ -22,8 +22,8 @@ function App() {
       {/* <Styler/> */}
       {/* <Theme/> */}
 
-      {/* <ThemeOpti/> */}
-      <StateBatching/>
+      <ThemeOpti/>
+      {/* <StateBatching/> */}
     </div>
   );
 }
