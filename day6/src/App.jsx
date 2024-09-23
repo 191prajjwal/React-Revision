@@ -6,7 +6,6 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Links from "./components/Links";
 import User from './components/User';
-import Prajjwal from './components/Prajjwal'
 import Aadhar from './components/Aadhar'
 import UserDetails from "./components/UserDetails";
 
